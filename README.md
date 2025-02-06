@@ -21,6 +21,7 @@ A Python script that monitors stock price changes and fetches related news artic
 ```bash
 git clone https://github.com/yourusername/stock-news-alert.git
 cd stock-news-alert
+```
 
 ## Configuration
 - 1-Get your free API key from Alpha Vantage
@@ -30,7 +31,7 @@ cd stock-news-alert
 - Run the script with default settings (AMZN):  
   ```bash
   python3 stock_news_alert.py
-
+  ```
 - To monitor a different stock:
   ``` bash
   STOCK_SYMBOL = "MSFT"  # Change the symbol at the top of the script
