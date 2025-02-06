@@ -59,6 +59,3 @@ Summary: Amazon exceeds analyst expectations with record cloud revenue...
 - Only checks daily time series (intraday not available in free tier)
 - News search limited to current UTC day
 - English language news only
-
-## License
-MIT License
