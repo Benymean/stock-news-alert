@@ -15,14 +15,6 @@ A Python script that monitors stock price changes and fetches related news artic
 - `requests` library
 - Alpha Vantage API key (free tier available)
 
-## Installation
-
-1. Clone the repository:
-```bash
-git clone https://github.com/yourusername/stock-news-alert.git
-cd stock-news-alert
-```
-
 ## Configuration
 - 1-Get your free API key from Alpha Vantage
 - 2-Replace the placeholder in the script
