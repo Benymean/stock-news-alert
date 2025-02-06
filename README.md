@@ -51,3 +51,14 @@ Published: 20230801T120000
 Source: Financial Times
 Summary: Amazon exceeds analyst expectations with record cloud revenue...
 
+## API Key Notes
+- Free tier limited to 5 requests per minute
+- Daily limit of 25 requests for free keys
+
+## Limitations
+- Only checks daily time series (intraday not available in free tier)
+- News search limited to current UTC day
+- English language news only
+
+## License
+MIT License
