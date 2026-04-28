@@ -1,7 +1,7 @@
 import requests
 
 # API Configuration
-API_KEY = "VMG718GQSTK5RY6R"  # free tier API Key
+API_KEY =  # free tier API Key
 STOCK_SYMBOL = "AMZN"
 BASE_URL = "https://www.alphavantage.co/query"
 
